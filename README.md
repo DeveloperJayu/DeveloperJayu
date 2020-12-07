@@ -18,17 +18,17 @@
 
 ### Languages & Technologies
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/developerJayu)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/developerJayu)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/developerJayu)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)](https://github.com/developerJayu)
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/developerJayu)
-[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=232F3E)](https://github.com/developerJayu)
-[![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)](https://github.com/developerJayu)
-[![CSS](http://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=007396)](https://github.com/developerJayu)
-[![Javascript](http://img.shields.io/badge/-Javascript-fff?&logo=javascript)](https://github.com/developerJayu)
-[![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)](https://github.com/developerJayu)
-[![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)](https://github.com/developerJayu)
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-fff?&logo=C)
+![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin)
+![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)
+![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=232F3E)
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=html5)
+![CSS](http://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=007396)
+![Javascript](http://img.shields.io/badge/-Javascript-fff?&logo=javascript)
+![Android](https://img.shields.io/badge/-Android-fff?&logo=Android)
+![Firebase](http://img.shields.io/badge/-Firebase-fff?&logo=firebase)
 
 
 <p><a href="https://github.com/japarmar"><h1>Personal Account Stats</h1></a></p><br>
